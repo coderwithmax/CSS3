@@ -1,0 +1,24 @@
+/* Universal Selector */
+*{
+    background-color: black;
+    color: white;
+}
+
+/* Selector Element */
+p{
+    color: blue;
+}
+
+/* Class Selector */
+.box{
+    background-color: red;
+}
+
+/* ID Selector */
+#title{
+    font-size: 30px;
+    
+}
+
+
+

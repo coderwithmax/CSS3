@@ -1,0 +1,41 @@
+* {
+  background-color: black;
+  color: white;
+}
+
+.box {
+  border: 2px solid white;
+  margin-left: 20px;
+  padding: 20px;
+
+  width: 300px;
+  justify-content: center;
+}
+
+.box1 {
+  border: 3px dotted red;
+  margin: 20px;
+  padding: 20px;
+  width: 300px;
+}
+
+.box2 {
+  border: 3px dashed blue;
+  margin: 20px;
+  padding: 20px;
+  width: 300px;
+}
+
+.box3 {
+  border: 6px double green;
+  margin: 20px;
+  padding: 20px;
+  width: 300px;
+}
+
+section{
+  border: 2px solid white;
+  margin: 20px;
+  padding: 20px;
+  width: 350px;
+}

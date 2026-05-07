@@ -7,7 +7,7 @@
   border: 2px solid white;
   margin-left: 20px;
   padding: 20px;
-
+  text-align: center;
   width: 300px;
   justify-content: center;
 }
@@ -33,9 +33,17 @@
   width: 300px;
 }
 
-section{
+section {
   border: 2px solid white;
   margin: 20px;
   padding: 20px;
   width: 350px;
+}
+
+.boxer{
+  border: 5px solid white;
+  margin: 20px;
+  padding:80px;
+  width: 150px;
+  border-top: 5px solid red;
 }
